@@ -1,0 +1,2 @@
+estatico : dice el tipo de dato, para no se le puede cambiar el valor.
+en el dinamico: si se le puede cambiar el tipo de dato.

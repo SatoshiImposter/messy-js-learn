@@ -1,0 +1,13 @@
+todo empieza con un documento padre o raiz 
+
++DOCUMENT.
+ +HTML
+  +head 
+    -meta.
+    -link.
+    +title.
+     -texto
+  +body
+   +section
+    +h1
+     -texto.

@@ -1,0 +1,20 @@
+hay dos tipos.
+
+PRIMITIVOS:
+    -Numbers.
+    -String.
+    -Boolean.
+    -undefined.
+    -null.
+
+REFERENCIA:
+    -array.
+    -object
+    -function.
+    -classes
+
+
+
+numero es sin comillas.
+
+cualquier variable declarada con let se puede cambiar luego.

@@ -1,0 +1,11 @@
+variables js: 
+    1. let (nos permite crear una variable)
+    2. string: un texto.
+    3. undefined (una variable sin valor)
+
+mejores practicas:
+    UpperCamelCAse:cada palabra debe tener mayuscula
+    cammelCase: la primera sin mayuscula las demas si (la mas usada).
+    snake_case: cada palabra seguida de un guion
+    *js es case sensitive(por lo que si esta en mayuscula cambia)*
+    

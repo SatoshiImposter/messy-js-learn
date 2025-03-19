@@ -1,0 +1,12 @@
+-factory functions
+-constructor functions.
+-dom
+-async await
+-async
+-value vs reference.
+-arrow functions.
+-this.
+-inheritance.
+-events
+-maps.
+

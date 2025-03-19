@@ -1,0 +1,1 @@
+estas son variables que no se les puede cambiar el valor.

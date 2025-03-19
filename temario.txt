@@ -1,0 +1,10 @@
+Que es javascript?
+facilita el desarrollo fornt-end.
+    Frameworks: Vue, React, Angular.
+    Framework: herramientas para hacer aplicaciones complejas y completas.
+    libreria: otra herramienta para hacer problemas en especifico.
+    antes los sitios eran estaticos, navegando entre sitios mediante links. 
+    ecma262: indica las especificaciones para javasscript.
+    ecmascript 2015: lo cambio todo.
+    refactorizar se refiere a tener el mismo resultado, cambienado el codigo    
+     
